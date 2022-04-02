@@ -1,0 +1,72 @@
+C:\Mail\DarkUI\DarkUI\bin\Debug\DarkUI.dll
+C:\Mail\DarkUI\DarkUI\bin\Debug\DarkUI.pdb
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.csprojAssemblyReference.cache
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Controls.DarkDataGridView.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Forms.DarkDialog.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Forms.DarkDialogMessageBox.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.ComboBoxIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.DockIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.DropdownIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.MenuIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.MessageBoxIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.NumericUpDownIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.ScrollIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.Icons.TreeViewIcons.resources
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.csproj.GenerateResource.cache
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.csproj.CoreCompileInputs.cache
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.dll
+C:\Mail\DarkUI\DarkUI\obj\Debug\DarkUI.pdb
+E:\CALSAN Panel\CALSAN Panel\DarkUI\bin\Debug\DarkUI.dll
+E:\CALSAN Panel\CALSAN Panel\DarkUI\bin\Debug\DarkUI.pdb
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.csprojAssemblyReference.cache
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Controls.DarkDataGridView.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Forms.DarkDialog.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Forms.DarkDialogMessageBox.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.ComboBoxIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.DockIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.DropdownIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.MenuIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.MessageBoxIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.NumericUpDownIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.ScrollIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.Icons.TreeViewIcons.resources
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.csproj.GenerateResource.cache
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.csproj.CoreCompileInputs.cache
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.dll
+E:\CALSAN Panel\CALSAN Panel\DarkUI\obj\Debug\DarkUI.pdb
+E:\HTSKSeries\DarkUI\bin\Debug\DarkUI.dll
+E:\HTSKSeries\DarkUI\bin\Debug\DarkUI.pdb
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Controls.DarkDataGridView.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Forms.DarkDialog.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Forms.DarkDialogMessageBox.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.ComboBoxIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.DockIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.DropdownIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.MenuIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.MessageBoxIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.NumericUpDownIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.ScrollIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.Icons.TreeViewIcons.resources
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.csproj.GenerateResource.cache
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.csproj.CoreCompileInputs.cache
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.dll
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.pdb
+E:\HTSKSeries\DarkUI\obj\Debug\DarkUI.csprojAssemblyReference.cache
+E:\DBO Bot Client\DBO Bot Client\DarkUI\bin\Debug\DarkUI.dll
+E:\DBO Bot Client\DBO Bot Client\DarkUI\bin\Debug\DarkUI.pdb
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Controls.DarkDataGridView.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Forms.DarkDialog.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Forms.DarkDialogMessageBox.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.ComboBoxIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.DockIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.DropdownIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.MenuIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.MessageBoxIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.NumericUpDownIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.ScrollIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.Icons.TreeViewIcons.resources
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.csproj.GenerateResource.cache
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.csproj.CoreCompileInputs.cache
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.dll
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.pdb
+E:\DBO Bot Client\DBO Bot Client\DarkUI\obj\Debug\DarkUI.csproj.AssemblyReference.cache

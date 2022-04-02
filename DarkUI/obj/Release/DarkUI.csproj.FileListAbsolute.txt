@@ -1,0 +1,17 @@
+C:\Mail\MailSender\DarkUI\bin\Release\DarkUI.dll
+C:\Mail\MailSender\DarkUI\bin\Release\DarkUI.pdb
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Controls.DarkDataGridView.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Forms.DarkDialog.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Forms.DarkDialogMessageBox.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.ComboBoxIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.DockIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.DropdownIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.MenuIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.MessageBoxIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.NumericUpDownIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.ScrollIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.Icons.TreeViewIcons.resources
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.csproj.GenerateResource.cache
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.csproj.CoreCompileInputs.cache
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.dll
+C:\Mail\MailSender\DarkUI\obj\Release\DarkUI.pdb
